@@ -12,10 +12,7 @@
     "Loris Guignard <loris.guignard@gmail.com> [@loris]",
     "Brandon Copley <copley.brandon@gmail.com> [@brandoncopley]"
   ],
-  "repository": "progressclaim/countryjs",
-  "engines": [
-    "node"
-  ],
+  "repository": "github:roohat/countryjs",
   "scripts": {
     "pretest": "./node_modules/standard/bin/cmd.js",
     "test": "./node_modules/istanbul/lib/cli.js cover _mocha --"
